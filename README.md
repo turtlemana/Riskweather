@@ -2,6 +2,7 @@
 
 
 <!-- PROJECT LOGO -->
+<img src="https://github.com/turtlemana/Riskweather/assets/75458741/a63bbe41-1361-493a-9dd4-7048117d142f"/>
 <br />
 
 
@@ -35,6 +36,12 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+
+<div>
+    <img align=top src="https://github.com/turtlemana/Riskweather/assets/75458741/1bb12082-ead7-4f3a-a645-c1c265d1e40e"/>
+    <img align=top src="https://github.com/turtlemana/Riskweather/assets/75458741/2db98803-f449-440b-8bcb-cb8f93e534b8"/>
+<div>
+
 ![Riskweather-web-view](https://github.com/turtlemana/Riskweather/assets/75458741/4c05eeff-2339-46b1-9d6f-02e32104c14a)
 [Riskweather-web-view](https://riskweather.io)
 

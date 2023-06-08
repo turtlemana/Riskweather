@@ -1,6 +1,6 @@
 # Riskweather
 
-### README Top
+
 <!-- README TOP -->
 <img width="100" height="100" align=center src="https://github.com/turtlemana/Riskweather/assets/75458741/a63bbe41-1361-493a-9dd4-7048117d142f"/>
 <br />
@@ -27,7 +27,6 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -55,7 +54,7 @@ Three major risk indicator will be provided:
 * **Worst Case** : Losses in an low probability situation when an asset's price fall sharply 
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#riskweather">back to top</a>)</p>
 
 
 
@@ -66,7 +65,7 @@ Three major risk indicator will be provided:
 * [![TypeScript][TypeScript]][TypeScript-url]
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#riskweather">back to top</a>)</p>
 
 
 
@@ -103,7 +102,7 @@ I would be more than welcome to get a contact from you.
    const API_KEY = 'ENTER YOUR API';
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#riskweather">back to top</a>)</p>
 
 
 
@@ -139,7 +138,8 @@ I would be more than welcome to get a contact from you.
 <img src="https://github.com/turtlemana/Riskweather/assets/75458741/c4e14864-d342-4793-b07d-ef42b9977a5f" />
 <br/>
 <br/>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<p align="right">(<a href="#riskweather">back to top</a>)</p>
 
 
 
@@ -158,7 +158,7 @@ Mobile Views now available
 
 <img src="https://github.com/turtlemana/Riskweather/assets/75458741/a90cac50-8798-42ce-a9d2-1278d7ef9553"/>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#riskweather">back to top</a>)</p>
 
 
 
@@ -174,7 +174,7 @@ Don't forget to contact me first! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#riskweather">back to top</a>)</p>
 
 
 
@@ -187,7 +187,7 @@ Don't forget to contact me first! Thanks again!
 email - turtlemana124@gmail.com
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#riskweather">back to top</a>)</p>
 
 <br/>
 <br/>

@@ -37,18 +37,23 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Riskweather-web-view](https://github.com/turtlemana/Riskweather/assets/75458741/4c05eeff-2339-46b1-9d6f-02e32104c14a)
+![Riskweather-web-view](https://github.com/turtlemana/Riskweather/assets/75458741/bf9cb91b-0da5-4ff8-96c9-d9dbe2e1308f)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Most professional investors and traders who work in huge securities company, take considerate amount of care about
+asset's financial risk indicators. They often check them while they invest certain assets.
+<br/>
+<br/>
+However, ordinary common investors don't really know what a financial risk is, not knowing the fact that their investing strategy is whether
+too risky or vice versa.
+<br/>
+<br/>
+For that reason, Riskweather has a purpose which is **"Providing easy-to-understand Risk information for ordinary investors"**
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+Three major risk indicator will be provided:
+* **Risk Level** : The inherent risk of an asset 
+* **Weather** : The direction of change in risk of an asset 
+* **Worst Case** : Losses in an low probability situation when an asset's price fall sharply 
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

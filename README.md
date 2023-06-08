@@ -2,10 +2,11 @@
 
 
 <!-- PROJECT LOGO -->
-<img src="https://github.com/turtlemana/Riskweather/assets/75458741/a63bbe41-1361-493a-9dd4-7048117d142f"/>
+<img width="100" height="100" align=center src="https://github.com/turtlemana/Riskweather/assets/75458741/a63bbe41-1361-493a-9dd4-7048117d142f"/>
+<br />
 <br />
 
-
+**[Project Link]** : https://riskweather.io
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -25,25 +26,18 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
+<br/>
 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<div>
-    <img align=top src="https://github.com/turtlemana/Riskweather/assets/75458741/1bb12082-ead7-4f3a-a645-c1c265d1e40e"/>
-    <img align=top src="https://github.com/turtlemana/Riskweather/assets/75458741/2db98803-f449-440b-8bcb-cb8f93e534b8"/>
-<div>
-
 ![Riskweather-web-view](https://github.com/turtlemana/Riskweather/assets/75458741/4c05eeff-2339-46b1-9d6f-02e32104c14a)
-[Riskweather-web-view](https://riskweather.io)
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 

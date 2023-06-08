@@ -36,7 +36,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 ![Riskweather-web-view](https://github.com/turtlemana/Riskweather/assets/75458741/4c05eeff-2339-46b1-9d6f-02e32104c14a)
-(https://riskweather.io)
+[Riskweather-web-view](https://riskweather.io)
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 

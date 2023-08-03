@@ -1,0 +1,100 @@
+export const MENUS = [
+  { id: 0, title: "Home", path: "/", koreanTitle: "홈" },
+  { id: 1, title: "Explore", path: "/explore", koreanTitle: "투자정보" },
+  { id: 2, title: "Learn", path: "/learn", koreanTitle: "이용방법" },
+  { id: 3, title: "Portfolio", path: "/portfolio", koreanTitle: "포트폴리오" },
+];
+export const MOBILE_MENUS = [
+  { id: 0, title: "Home", path: "/", koreanTitle: "홈" },
+  { id: 1, title: "Explore", path: "/explore", koreanTitle: "투자정보" },
+  { id: 2, title: "Learn", path: "/learn", koreanTitle: "이용방법" },
+  { id: 3, title: "Portfolio", path: "/portfolio", koreanTitle: "포트폴리오" },
+  // { id: 4, title: "News", path: "/news" },
+];
+
+export const ALERTS = [
+  {
+    id: 0,
+    title: "Bitcoin",
+    content: "Bitcoin’s maximum loss fell to -85.3%.",
+    date: "1 min",
+    isRead: false,
+  },
+  {
+    id: 1,
+    title: "Bitcoin",
+    content: "Bitcoin is slightly rising.",
+    date: "5 min",
+    isRead: false,
+  },
+  {
+    id: 2,
+    title: "Bitcoin",
+    content: "Bitcoin is slightly rising.",
+    date: "15 min",
+    isRead: false,
+  },
+  {
+    id: 3,
+    title: "Bitcoin",
+    content: "Bitcoin’s maximum loss fell to -85.3%.",
+    date: "1 min",
+    isRead: true,
+  },
+  {
+    id: 4,
+    title: "Bitcoin",
+    content: "Bitcoin is slightly rising.",
+    date: "5 min",
+    isRead: true,
+  },
+  {
+    id: 5,
+    title: "Bitcoin",
+    content: "Bitcoin is slightly rising.",
+    date: "15 min",
+    isRead: true,
+  },
+  {
+    id: 6,
+    title: "Bitcoin",
+    content: "Bitcoin’s maximum loss fell to -85.3%.",
+    date: "1 min",
+    isRead: false,
+  },
+  {
+    id: 7,
+    title: "Bitcoin",
+    content: "Bitcoin is slightly rising.",
+    date: "5 min",
+    isRead: false,
+  },
+  {
+    id: 8,
+    title: "Bitcoin",
+    content: "Bitcoin is slightly rising.",
+    date: "15 min",
+    isRead: false,
+  },
+  {
+    id: 9,
+    title: "Bitcoin",
+    content: "Bitcoin’s maximum loss fell to -85.3%.",
+    date: "1 min",
+    isRead: true,
+  },
+  {
+    id: 10,
+    title: "Bitcoin",
+    content: "Bitcoin is slightly rising.",
+    date: "5 min",
+    isRead: true,
+  },
+  {
+    id: 11,
+    title: "Bitcoin",
+    content: "Bitcoin is slightly rising.",
+    date: "15 min",
+    isRead: true,
+  },
+];

@@ -1,0 +1,29 @@
+{
+    "loginWelcome":"Welcome!",
+    "loginExplain":"Please log in on social media",
+    "loginContinue1":"Continue with",
+    "loginContinue2":"",
+    "assetSelectTitle1":"Choose Assets",
+    "assetSelectTitle2":"You're interested in",
+    "assetSelectExplain1":"Please select up to 10 assets",
+    "assetSelectExplain2":"Riskweather will measure your risk tolerance",
+    "assetSelectExplain3":"based on the chosen assets",
+    "assetSkip": "Skip",
+    "assetFinish":"Finish selecting",
+    "modalSkipTitle":"You didn't choose any assets",
+    "modalWelcome1":"Welcome to Riskweather",
+    "modalWelcome2":"We have finished measuring",
+    "modalExplain1":"You can re-test your risk",
+    "modalExplain2":"tolerance on portfolio page",
+    "modalStart":"Confirm",
+    "agreements":"I agree to the collection and the use of personal information, following the ",
+    "agreements2":"policy",
+    "resultCalculating":"Measuring your risk tolerance...",
+    "modalSecTitle":"Choose securities company you use most",
+    "modalSecExplain1":"This information is only used for marketing,",
+    "modalSecExplain2":"and service improvement purposes.",
+    "modalNext":"Next"
+
+
+    
+}
